@@ -17,7 +17,7 @@ int main(void)
    x=(persona*) construirArreglo (3);
 
  //asignar valores a los elementos del arreglo
-   printf ("Escriba los datos...Va");
+   printf ("Escriba los datos...\n");
 
    leerArreglo(3,x);
 
